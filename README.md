@@ -4,22 +4,22 @@
 
 ## 📊 Umumiy progress
 
-`░░░░░░░░░░░░░░░░░░░░` **1%**  (2/179 mavzu)
+`░░░░░░░░░░░░░░░░░░░░` **2%**  (4/179 mavzu)
 
-- ⭐ Jami ball: **5310**
-- 📤 GitHubga yuborilgan topshiriqlar: **61**
+- ⭐ Jami ball: **5315**
+- 📤 GitHubga yuborilgan topshiriqlar: **62**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
 **MODUL 1 — Asoslar** → **O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)**
 
-➡️ Keyingi mavzu: *Dasturlashga kirish — Python nima va nega o'rganamiz*
+➡️ Keyingi mavzu: *Sonlar: int va float — butun va kasr sonlar*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ⬜ Dasturlashga kirish — Python nima va nega o'rganamiz
-- ⬜ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
+- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
 - ✅ Birinchi dastur ⭐ — print() va kommentlar
 - ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)  ← yetgan joyingiz
 - ⬜ Sonlar: int va float — butun va kasr sonlar
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `█░░░░░░░░░` 13% | 2/15 |
+| 1 | 🔸 Asoslar | `███░░░░░░░` 27% | 4/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
