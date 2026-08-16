@@ -1,0 +1,3 @@
+soz = input()
+natija = soz [-1] + soz[1:-1] + soz[0]
+print(natija)
