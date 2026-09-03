@@ -1,0 +1,5 @@
+gap = input()
+soz = input()
+natija = gap.replace(soz,soz.upper())
+print(natija)
+print(gap.count(soz))
