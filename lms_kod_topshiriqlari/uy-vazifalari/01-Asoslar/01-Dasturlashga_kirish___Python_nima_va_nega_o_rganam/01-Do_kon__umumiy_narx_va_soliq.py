@@ -1,4 +1,5 @@
 a = int(input())
 b = int(input())
-print(a * b)
-print(a * b * 11 // 10)
+umumiy = a * b
+print(umumiy)
+print(umumiy + umumiy // 10)
